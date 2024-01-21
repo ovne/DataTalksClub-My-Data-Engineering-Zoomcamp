@@ -1,0 +1,17 @@
+Os beneficios do Docker para engenharia de dados:
+    - reprodutibilidade
+    - compatibilidade
+    - isolamento
+    - Escalonar
+    - serverless
+    - testes
+    - 
+
+docker run -it <image>:<tag>
+docker build -t <image-name>:<tag> <build directory*>
+    *build directory => the folder where Dockerfile is
+
+- after building the image, lets run the container
+docker run -it <image-name>:<tag>
+    * pass -it option to run the container in interactive mode ('i') and launch 
+    a terminal ('t')
