@@ -1,3 +1,0 @@
-Neste primeiro módulo do Datatalks DataEngineering zoomcamp falamos sobre containerização e infraestrutura como código. Essas que são tecnologias emergentes na área de dados mas que já são fundamentais para o trabalho do Engenheiro no ambiente de BigData. 
-
-É com essas tecnologias que o Engenheiro de Dados consegue criar ambientes de desenvolvimento e produção de forma rápida, escalável e com baixo custo, como por exemplo, um PostgreSQL rodando em um container Docker, como vamos fazer nesse módulo.
